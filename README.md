@@ -57,6 +57,18 @@ A versão atual é a **1.1.0**.
 
 ---
 
+## ⬇️ Recursos Gráficos
+
+- [Mediafire](https://www.mediafire.com/file/4dpk3oeufk7xwzp/Graphics_Faces_MEVXA.zip/file)
+
+---
+
+## 🌐 Página do Sistema
+
+- [Somnium System](https://somniumsystem.blogspot.com/2018/10/sistema-menu-estilo-rmvxa.html)
+
+---
+
 ## 📦 Instalação
 
 1. Abra o projeto no **RPG Maker XP**.
@@ -321,6 +333,18 @@ Current version: **1.1.0**.
 ## ⚙️ Requirements
 
 - RPG Maker XP
+
+---
+
+## ⬇️ Graphic Features
+
+- [Mediafire](https://www.mediafire.com/file/4dpk3oeufk7xwzp/Graphics_Faces_MEVXA.zip/file)
+
+---
+
+## 🌐 System Page
+
+- [Somnium System](https://somniumsystem.blogspot.com/2018/10/sistema-menu-estilo-rmvxa.html)
 
 ---
 
